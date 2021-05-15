@@ -421,6 +421,14 @@ footer {
   text-align: center;
 }
 
+.imprint-footer {
+  padding-top: 5px;
+  border-bottom: 1px solid $lightGray;
+  font-size: 10px;
+  @include mobile {
+    text-align: center;
+  }
+
 body:after {
     background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
     width: 100%;
