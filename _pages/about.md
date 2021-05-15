@@ -31,7 +31,7 @@ Wer einen Blick auf den Header des Blogs geworfen hat, hat das "Coffee Enthusias
 Der Blog wurde mit Jekyll erstellt. Es handelt sich um ein Fork von [Reverie](https://github.com/amitmerchant1990/reverie). 
 Gehostet wird dieser auf [GitHub Pages](https://pages.github.com/). Wenn ihr auch einen statischen Blog hosten möchtet, könnt ihr dies dort kostenlos tun.  
 
-Das Icon wurde von [https://www.freepik.com](freepik) erstellt und auf [https://www.flaticon.com/](flaticon) heruntergeladen.
+Das Icon wurde von [freepik](https://www.freepik.com) erstellt und auf [flaticon](https://www.flaticon.com/) heruntergeladen.
 
 
 ### Contact me
