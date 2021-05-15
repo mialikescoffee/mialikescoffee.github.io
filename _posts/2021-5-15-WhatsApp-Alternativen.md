@@ -7,7 +7,7 @@ title: WhatsApp-Alternativen
 
 An dieser Stelle möchte ich aus gegebenem Anlass zwei Alternativen nennen, die ähnlich wie WhatsApp funktionieren, aber Wert auf Datenschutz und sichere Kommunikation legen. 
 
-![zwei Menschen gefilmt von Überwachungskameras]({{ site.baseurl }}/images/privacy.png)
+![zwei Menschen gefilmt von Überwachungskameras]({{ site.baseurl }}/images/privacy.jpg)
 
 ## Signal
 
