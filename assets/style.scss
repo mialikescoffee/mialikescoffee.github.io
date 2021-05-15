@@ -416,6 +416,16 @@ nav {
   background-color: $lightGray;
 }
 
+.imprint-footer {
+  padding-top: 5px;
+  border-bottom: 1px solid $lightGray;
+  font-size: 10px;
+  @include mobile {
+    text-align: center;
+  }
+}
+
+
 footer {
   padding: 20px 0;
   text-align: center;
