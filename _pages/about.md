@@ -1,29 +1,41 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Willkommen auf meinem Blog. Schön, dass du vorbeischaust.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Hier dreht sich alles um IT, Internet und Computerkrams. Der Blog ist ein rein privates und unkommerzielles Projekt, welches ich als Hobby und zum Lernen betreibe.
 
-## Features
+Insbesondere interessieren mich diese Themen:
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+* Selfhosting mit oder ohne Docker Container
+* Freie Software und Open Source
+* Privacy
+* Linux und macOS
+* Netzpolitik
+* Networking
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+
+### mialikescoffee?
+
+Mia ist ein Pseudonym bzw. Nickname, welchen ich häufiger verwende.
+Der Name bezieht sich auf die Rolle der **Mia Wallace** aus dem Tarantino Film Pulp Fiction aus dem Jahr 1994. 
+
+Wer einen Blick auf den Header des Blogs geworfen hat, hat das "Coffee Enthusiast" sicherlich gesehen. Ich trinke gerne Kaffee und beschäftige mich mit den verschiedensten Zubereitungsarten (derzeit am liebsten Filterkaffee aus dem Hario V60). Kaffee gehört für mich zum Start in den Tag einfach dazu. Somit ist der Name der Domain und des Blogs entstanden.
+
+
+## Über den Blog
+
+Der Blog wurde mit Jekyll erstellt. Es handelt sich um ein Fork von [Reverie](https://github.com/amitmerchant1990/reverie). 
+Gehostet wird dieser auf [GitHub Pages](https://pages.github.com/). Wenn ihr auch einen statischen Blog hosten möchtet, könnt ihr dies dort kostenlos tun.
+
+
+### Contact me
+
+E-Mail: [blog@mialikescoffee.com](mailto:blog@mialikescoffee.com)  
+Threema: [TCXNT2W3](https://threema.id/TCXNT2W3)  
+Matrix: @thisismia:tchncs.de  
+Twitter: [@mialikescoffee](https://twitter.com/mialikescoffee)   
+Mastodon: [@mialikescoffee@social.tchncs.de](https://social.tchncs.de/@mialikescoffee)
