@@ -24,8 +24,10 @@ Mia ist ein Pseudonym bzw. Nickname, welchen ich häufiger verwende.
 Der Name bezieht sich auf die Rolle der **Mia Wallace** aus dem Tarantino Film Pulp Fiction aus dem Jahr 1994. 
 
 Wer einen Blick auf den Header des Blogs geworfen hat, hat das "Coffee Enthusiast" sicherlich gesehen. Ich trinke gerne Kaffee und beschäftige mich mit den verschiedensten Zubereitungsarten (derzeit am liebsten Filterkaffee aus dem Hario V60). Kaffee gehört für mich zum Start in den Tag einfach dazu. Somit ist der Name der Domain und des Blogs entstanden.
-
-
+  
+![Eine Tasse Kaffee, die neben einem Laptop steht.]({{ site.baseurl }}/images/coffeelaptop.jpg)  
+  
+  
 ## Über den Blog
 
 Der Blog wurde mit Jekyll erstellt. Es handelt sich um ein Fork des Jekyll-Themes [Reverie](https://github.com/amitmerchant1990/reverie). 
