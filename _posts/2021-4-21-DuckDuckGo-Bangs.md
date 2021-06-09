@@ -1,6 +1,7 @@
 ---
 layout: post
-title: DuckDuckGo !Bangs
+title: Websuchen mit DuckDuckGo !Bangs optimieren
+categories: [privacy]
 ---
 
 [DuckDuckGo](https://duckduckgo.com) ist eine Suchmaschine, welche ich täglich verwende. Im Gegensatz zu Google speichert DuckDuckGo laut eigener Aussagen Suchanfragen nicht und fertigt daher auch keine umfassenden Nutzungsprofile an. Mit DuckDuckGo !Bangs möchte ich eine Funktion vorstellen, welche wahrscheinlich nicht allen bekannt ist, obwohl diese sehr nützlich ist.
