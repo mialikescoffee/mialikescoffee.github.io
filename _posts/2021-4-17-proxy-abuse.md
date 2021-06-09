@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Apache Proxy Abuse
+title: Was ist ein Apache Proxy Abuse?
+categories: [linux, security]
 ---
 
-Zu Test- und Lernzwecken betreibe ich einen Ubuntu Server, auf welchem derzeit ein Apache2 Webserver installiert ist. Beim Lesen der Apache-Logfiles sind mir einige Ungereimtheiten aufgefallen, welche mich zunächst etwas beunruhigt haben, da ich mir diese zunächst nicht erklären konnte.  
+Zu Test- und Lernzwecken betreibe ich einen Ubuntu Server, auf welchem derzeit ein Apache2 Webserver installiert ist. Beim Lesen der Apache-Logfiles sind mir einige Ungereimtheiten aufgefallen, welche mich zunächst etwas beunruhigt haben, da ich mir diese zunächst nicht erklären konnte. Aufgrunddessen hatte ich die Vermutung, dass mein Server Opfer eines Apache Proxy Abuse ist. Was das genau ist, beschreibe ich in dem Artikel. 
 
 Im Verzeichnis /var/logs/apache2/ sind die Logdateien von Apache gespeichert. Dort liegt unter anderem eine Datei 'access.log', in welcher die Serverzugriffe geloggt werden, also in der Regel die http-Anfragen, welche an den Server von anderen Computern gestellt werden.
  
