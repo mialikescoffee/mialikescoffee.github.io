@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WireGuard VPN
+categories: [opensource, selfhosting]
 ---
 
 [WireGuard](https://www.wireguard.com/) ist eine freie Software, mit welcher sich VPNs (Virtual Private Networks) erstellen lassen. Diese erfreut sich seit einiger Zeit einer großen Beliebtheit, was nicht zuletzt daran liegt, dass WireGuard mittlerweile fester Bestandteil des Linux Kernels ist. In diesem Artikel zeige ich, wie man mit dem WireGuard VPN eine sichere Verbindung von seinem Computer zu einem Ubuntu Server aufbaut. 
