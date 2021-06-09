@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Der macOS Prozess com.apple.Safari.SafeBrowsing.Service
+categories: [macos, privacy]
 ---
 
 Was verbirgt sich hinter dem Prozess `com.apple.Safari.SafeBrowsing.Service` in macOS? Kurzgesagt: Es geht um Safe Browsing. Was es damit genau auf sich hat, versuche ich in diesem Blogpost zu klären. Aufgerufen wird dieser Prozess, wenn man in Safari eine Webseite öffnen will. Er ist dafür zuständig zu prüfen, ob eine Webseite schadhafte Inhalte enthält, welche ein Sicherheitsrisiko darstellen könnten, also zum Beispiel Phishingseiten. 
