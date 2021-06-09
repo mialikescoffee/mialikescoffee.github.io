@@ -8,9 +8,13 @@ description: Tech and Coffee Enthusiast
 avatar: /images/coffee-logo.png
 
 # Sonstige Config
-tagline: Ein Blog über IT, Tech, Selfhosting, Linux, macOS und mehr
+tagline: Ein Techblog über Linux, macOS, IT-Security, Privacy und Selfhosting von freier Software. 
 timezone: Europe/Berlin
 locale: de_DE
+twitter:
+  username: mialikescoffee
+  card: summary
+logo: /images/coffee-logo.png
 
 #social profiles
 
