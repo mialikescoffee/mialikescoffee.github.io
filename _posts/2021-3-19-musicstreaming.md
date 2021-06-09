@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mein eigener Musikstreamingdienst
+categories: [opensource, selfhosting, linux]
 ---
 
 Heutzutage wird Musik hauptsächlich über kommerzielle Streamingdienste wie Spotify oder Apple Music konsumiert. CDs und Vinyl verlieren immer weiter [Marktanteile](https://www.heise.de/newsticker/meldung/Marktanteil-von-Musik-Streaming-in-Deutschland-waechst-auf-46-4-Prozent-4328080.html).
