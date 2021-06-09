@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Nginx Proxy Manager
+title: Nginx Proxy Manager installieren und konfigurieren
+categories: [opensource, selfhosting, linux]
 ---
 
 Der [Nginx Proxy Manager](https://nginxproxymanager.com/) basiert, wie der Name schon erahnen lässt, auf dem Nginx-Webserver. Es handelt sich um ein ein Open Source Management Tool zur Konfiguration und Verwaltung von Reverse Proxies. Ohne viel Vorwissen lässt sich das Tool über eine grafische Benutzeroberfläche im Webbrowser steuern. Neben der Einrichtung von Reverse-Proxies können auch mit wenigen Mausklicks Lets Encrypt Zertifikate für eine verschlüsselte https Verbindung generiert werden.
