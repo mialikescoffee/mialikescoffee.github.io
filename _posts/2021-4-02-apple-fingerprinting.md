@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple geht gegen Device-Fingerprinting vor
+categories: [apple, privacy]
 ---
 
 [Forbes](https://www.forbes.com/sites/johnkoetsier/2021/04/01/apple-rejecting-apps-with-fingerprinting-enabled-as-ios-14-privacy-enforcement-starts) berichtet aktuell, dass Apple begonnen hat Updates von Apps für den iOS App Store abzulehnen, welche im Konflikt mit den neuen Privacy Policys des Unternehmens stehen. Dies steht im engen Zusammenhang mit dem bevorstehenden Release von iOS 14.5, welches wegen der sogenannten 'App Tracking Transparancy' im Vorfeld insbesondere von Werbefirmen wie Facebook kritisiert wurde.    
