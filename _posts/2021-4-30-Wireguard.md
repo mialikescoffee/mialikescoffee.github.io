@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WireGuard VPN
+title: WireGuard VPN installieren und konfigurieren
 categories: [opensource, selfhosting, linux]
 ---
 
