@@ -2,9 +2,10 @@
 layout: post
 title: WireGuard VPN installieren und konfigurieren
 categories: [opensource, selfhosting, linux]
+description: Wireguard ist eine freie Software zum Aufbau von VPNs. In diesem Beitrag zeige ich wie man Wireguard installiert und konfiguriert.
 ---
 
-[WireGuard](https://www.wireguard.com/) ist eine freie Software, mit welcher sich VPNs (Virtual Private Networks) erstellen lassen. Diese erfreut sich seit einiger Zeit einer großen Beliebtheit, was nicht zuletzt daran liegt, dass WireGuard mittlerweile fester Bestandteil des Linux Kernels ist. In diesem Artikel zeige ich, wie man mit dem WireGuard VPN eine sichere Verbindung von seinem Computer zu einem Ubuntu Server aufbaut. 
+[WireGuard](https://www.wireguard.com/) ist eine freie Software, mit welcher sich VPNs (Virtual Private Networks) erstellen lassen. Diese erfreut sich seit einiger Zeit einer großen Beliebtheit, was nicht zuletzt daran liegt, dass WireGuard mittlerweile fester Bestandteil des Linux Kernels ist. In diesem Artikel zeige ich, wie man mit dem WireGuard VPN eine sichere Verbindung von seinem Computer oder Smartphone zu einem Ubuntu Server aufbaut. Wenn sich dieser Server in euerm Heimnetzwerk befindet, könnt ihr von unterwegs via VPN-Tunnel euer Heimnetzwerk erreichen.
 
 WireGuard ist für Privatanwender:innen eine gute Möglichkeit, um von unterwegs eine sichere Verbindung zum lokalen Netzwerk zu Hause zu bekommen. Zum Beispiel kann man WireGuard auf einem Raspberry Pi im Heimnetzwerk und auf dem Smartphone installieren. Von unterwegs lässt sich dann ein verschlüsselter Tunnel vom Smartphone zum Raspberry Pi aufbauen und man kann so von überall auf Dienste und Dateien im Heimnetzwerk zugreifen. Die Informationen aus diesem Artikel lassen sich auch auf einen solchen Aufbau anwenden.
 
