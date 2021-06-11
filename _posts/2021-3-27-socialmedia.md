@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meine Social Media Profile
+title: Meine Social Media Profile. Folgt mir gerne! :)
 ---
 
 Nur ein kurzer Post in eigener Sache: Ich bin jetzt auch auf Mastodon und Twitter vertreten.
