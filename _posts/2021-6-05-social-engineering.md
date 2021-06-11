@@ -2,6 +2,7 @@
 layout: post
 title: Grundsätze und Methoden des Social Engineerings
 categories: [security]
+description: Social Engineering ist der Sammelbegriff für Methoden mit denen sicherheitsrelevante Daten durch das Ausnutzen menschlichen Verhaltens gewonnen werden.
 ---
 
 Social Engineering ist ein Sammelbegriff für Techniken, welche darauf abzielen unter der Ausnutzung menschlichen Verhaltens an sicherheitsrelevante Informationen zu gelangen und in Systeme einzudringen. In diesem Artikel wird erklärt wie Social Engineering funktioniert und verschiedene Arten von Angriffen vorgestellt werden.
