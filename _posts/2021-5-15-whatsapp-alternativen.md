@@ -2,6 +2,7 @@
 layout: post
 title: WhatsApp-Alternativen, die deine Daten schützen
 categories: [privacy]
+description: WhatsApp hat die Datenschutzbestimmungen geändert, mit unklaren Folgen. In diesem Post stelle ich zwei datenschutzfreundliche Alternativen vor.
 ---
 
 [WhatsApp macht ab heute ernst](https://www.tagesschau.de/wirtschaft/verbraucher/whatsapp-messenger-facebook-datenschutz-101.html) und setzt seine neuen Datenschutz-Bestimmungen um. Dabei ist der Begriff Datenschutz-Bestimmung auch eher ein Euphemismus, da diese unklar und schwammig formuliert sind und WhatsApp dadurch berechtigt wird Daten der Nutzer:innen mit Unternehmen zu teilen, welche mit WhatsApp zusammenarbeiten. Es lässt sich auch herauslesen, dass daran gearbeitet wird Daten zukünftig dafür zu verwenden, um diese etwa für Werbezwecke nutzen zu können.
