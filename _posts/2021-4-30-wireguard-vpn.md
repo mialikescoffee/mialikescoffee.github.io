@@ -16,7 +16,6 @@ Zur Einrichtung, wie sie hier beschrieben wird, werden folgende Grundlagen benö
 
 Die Verbindung zum Server erfolgt mit SSH. Für ein bisschen mehr Hintergrundwissen zum Thema SSH empfiehlt sich ein Blick ins Wiki von [ubuntuusers.de](https://wiki.ubuntuusers.de/SSH/). Ich gehe davon aus, dass die Konfiguration nicht als root User vorgenommen wird. Sollte man sich als root auf dem Server eingeloggt sein, kann man alle Befehle ohne das `sudo` eintippen.
 
-
 Vor der Installation aktualisieren wir einmal die Paketquellen und Updaten unseren Server:
 
 `sudo apt update && sudo apt upgrade -y`
@@ -104,6 +103,3 @@ Wir können uns noch kurz vergewissern, ob die VPN-Verbindung wirklich funktioni
 ![Ping an den WireGuard Server]({{ site.baseurl }}/images/wireguard3.png)
 
  Da wir auf den Ping eine Antwort vom Server erhalten haben, wurde die VPN-Verbindung erfolgreich hergestellt.
-
-Nun ist der Server noch so konfiguriert, dass dieser einen offenen SSH Port hat und eine Verbindung über das Internet per SSH möglich ist. 
-Im nächsten Artikel zeige ich dann wie der Server so konfiguriert wird, dass eine Verbindung per SSH nur noch möglich ist, wenn man zuvor mit dem VPN verbunden ist.
