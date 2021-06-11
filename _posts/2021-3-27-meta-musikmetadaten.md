@@ -2,6 +2,7 @@
 layout: post
 title: Musikmetadaten und Albencover mit Meta verwalten
 categories: macos
+description: Mit Meta lassen sich Metadaten und Albencover von Musiksammlungen auf einfache und elegante Art verwalten. 
 ---
 
 Wisst ihr noch damals, als man noch eigene Musiksammlungen hatte? Pepperidge Farm remembers. Und was ist besser als eine Musiksammlung? Eine gut kuratierte Musiksammlung. Dabei hilft die Software Meta. Mit Meta lassen sich die Metadaten und Coverbilder digitaler Musiksammlungen elegant bearbeiten.
