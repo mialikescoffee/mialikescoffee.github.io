@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Safe Browsing und macOS
+title: Was hat Google Safe Browsing mit macOS zu tun?
 categories: [macos, privacy, security]
 description: Google Safe Browsing ist ein Dienst, welcher vor schadhaften Webseiten warnt. Dieser ist auch in macOS eingebettet. Mehr Infos erhaltet ihr in diesem Post.
 ---
