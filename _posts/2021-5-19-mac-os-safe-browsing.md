@@ -19,11 +19,11 @@ Dieser neuer Ansatz bietet mehr Privatsphäre als der erste, welcher im Prinzip 
 
 Nach diesem Exkurs kommen wir jetzt zu Apple und dem oben benannten Prozess in macOS. Wer hier eine gänzlich andere Technologie als die von Google erwartet, muss an dieser Stelle enttäuscht werden. Denn tatsächlich setzt Apple einfach Google Safe Browsing in Safari unter iOS und macOS ein. Hier verhält es sich so, dass bis vor Kurzem Safari mit den Servern von Google Safe Browsing kommunizierte. Viele Safari Nutzer:innen war es sicherlich nicht bewusst, dass sie einen Google Service beim Surfen genutzt haben. Jedoch berichteten diverse Medien und [Blogs](https://thehackernews.com/2021/02/apple-will-proxy-safe-browsing-requests.html) im Februar diesen Jahres, dass Apple ab sofort die Anfragen für Google Safe Browsing unter iOS über eigene Proxyserver umleiten wird. Ich konnte allerdings keine Quelle finden, die dies auch für macOS bestätigt. Daher habe ich mir das einfach mal selber angeschaut. Mit Little Snitch kann man sehen, dass sich der Prozess mit „token.safebrowsing.apple“ verbinden möchte.
 
-![Screenshot aus Little Snitch für Verbindung zur Safebrowsing Domain.]({{ site.baseurl }}/images/safebrowsing1.png)
+![Screenshot aus Little Snitch für Verbindung zur Safe Browsing Domain.]({{ site.baseurl }}/images/safebrowsing1.png)
 
 Diese Domainname wird zu einer IP aufgelöst, welche Apple gehört. 
 
-![Screenshot zur IP, welche Apple gehört.]({{ site.baseurl }}/images/safebrowsing2.png)
+![Screenshot zur IP der Safe Browsing Anfrage, welche Apple gehört.]({{ site.baseurl }}/images/safebrowsing2.png)
 
 Somit kann man also sagen, dass auch unter macOS der Proxyserver für Google Safe Browsing Anfragen genutzt wird.
 
