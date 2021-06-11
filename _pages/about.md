@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Informationen über mich, den Blog und Kontaktmöglichkeiten
 permalink: /about/
 ---
 
@@ -36,7 +36,7 @@ Ich hoste den Blog auf [GitHub Pages](https://pages.github.com/) über mein Repo
 Das Icon im Header wurde von [freepik](https://www.freepik.com) erstellt und auf [flaticon](https://www.flaticon.com/) heruntergeladen.
 
 
-### Contact me
+## Contact me
 
 Schreibt mir gerne über eines der folgenden Kommunikationsmittel. Außerdem freue ich mich, wenn ihr mir auf Twitter bzw. Mastodon folgt oder den Blog über einen Feedreader abonniert. Die URL für Feedreader lautet: https://mialikescoffee.com/feed.xml
 
