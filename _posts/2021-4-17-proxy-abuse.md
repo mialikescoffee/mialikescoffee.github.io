@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Was ist ein Apache Proxy Abuse?
+title: Ist mein Webserver vom Apache Proxy Abuse betroffen?
 categories: [linux, security]
 ---
 
