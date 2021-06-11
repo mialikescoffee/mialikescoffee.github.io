@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calibre-web - ein Webfrontend für E-books
+title: Calibre-web - ein schickes Webfrontend für eure E-books
 categories: [opensource, selfhosting, linux]
 ---
 
