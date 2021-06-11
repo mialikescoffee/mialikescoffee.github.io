@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Der macOS Prozess com.apple.Safari.SafeBrowsing.Service
-categories: [macos, privacy]
+title: Google Safe Browsing und macOS
+categories: [macos, privacy, security]
+description: Google Safe Browsing ist ein Dienst, welcher vor schadhaften Webseiten warnt. Dieser ist auch in macOS eingebettet. Mehr Infos erhaltet ihr in diesem Post.
 ---
 
-Was verbirgt sich hinter dem Prozess `com.apple.Safari.SafeBrowsing.Service` in macOS? Kurzgesagt: Es geht um Safe Browsing. Was es damit genau auf sich hat, versuche ich in diesem Blogpost zu klären. Aufgerufen wird dieser Prozess, wenn man in Safari eine Webseite öffnen will. Er ist dafür zuständig zu prüfen, ob eine Webseite schadhafte Inhalte enthält, welche ein Sicherheitsrisiko darstellen könnten, also zum Beispiel Phishingseiten. 
+Ich habe mich vor Kurzem gefragt was sich genau hinter dem Prozess `com.apple.Safari.SafeBrowsing.Service` in macOS verbirgt. Aber in der Überschrift steht doch Google Safe Browsing, was hat das denn mit dem macOS Prozess zu tun? Das kläre ich in diesem Beitrag. Ein kleines tl;dr: Der Prozess wird von Safari aufgerufen, wenn man eine Webseite öffnen will. Er ist dafür zuständig zu prüfen, ob eine Webseite schadhafte Inhalte enthält, also um Beispiel, ob es sich um eine Phishingseite handelt. 
 
-Wenn man selber eine Recherche zu diesem Prozess betreibt, sind viele Informationen, die man erhält, eher oberflächlich. In der Regel wird die Funktion des Prozesses kurz beschrieben, so wie ich dies in der Einführung zu dem Artikel auch getan habe. Aber ich wollte wissen wie der Prozess funktioniert. Was passiert im Hintergrund, wovon der User nichts mitbekommt und was für Implikationen ergeben sich daraus für die Privatsphäre?
+Wenn man eine Recherche zu diesem Prozess betreibt, sind viele Informationen, die man erhält, eher oberflächlich. In der Regel wird die Funktion des Prozesses kurz beschrieben, so wie ich dies in der Einführung zu dem Artikel auch getan habe. Aber ich wollte wissen wie der Prozess funktioniert. Was passiert im Hintergrund, wovon der User nichts mitbekommt und was für Implikationen ergeben sich daraus für die Privatsphäre?
 
 Um ein grundsätzliches Verständnis über den Begriff des Safe Browsing zu erhalten, gehen wir ein paar Jahre zurück und gucken uns eine Idee eines der größten Apple Konkurrenten an, nämlich Google. Immer mehr Nutzer:innen des Webs fielen auf gefährliche Seiten herein. Dadurch wurden sie mit Malware infiziert oder Opfer von Phishing. Google hatte eine Idee, wie man Nutzer:innen davor schütze könnte. Es wurde eine Liste mit schadhaften Webseiten aufgestellt, welche die Basis des Safe Browsing bildete. Die erste Version des Safe Browsing war ziemlich rudimentär und stellte sich ziemlich schnell als Bedrohung für die Privatsphäre heraus. Denn der Browser sendete schlichtweg bei jedem Webseitenaufruf die komplette URL sowie die IP-Adresse an einen Google Server, um die URL dann mit der Safe Browsing Liste abzugleichen. Ziemlich creepy, oder? Deswegen wurde die Funktion zum Glück schnell überarbeitet und durch die sogenannte „Update API“ ersetzt. Diese funktioniert folgendermaßen:
 
