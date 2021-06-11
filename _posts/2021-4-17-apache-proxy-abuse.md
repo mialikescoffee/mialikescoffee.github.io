@@ -2,6 +2,7 @@
 layout: post
 title: Ist mein Webserver vom Apache Proxy Abuse betroffen?
 categories: [linux, security]
+description: Ein Apache Proxy Abuse liegt vor, wenn ein Apache Webserver von Angreifern als Proxy missbraucht wird. Ich habe mich gefragt, ob mein Server davon betroffen ist.
 ---
 
 Zu Test- und Lernzwecken betreibe ich einen Ubuntu Server, auf welchem derzeit ein Apache2 Webserver installiert ist. Beim Lesen der Apache-Logfiles sind mir einige Ungereimtheiten aufgefallen, welche mich zunächst etwas beunruhigt haben, da ich mir diese zunächst nicht erklären konnte. Aufgrunddessen hatte ich die Vermutung, dass mein Server Opfer eines Apache Proxy Abuse ist. Was das genau ist, beschreibe ich in dem Artikel. 
