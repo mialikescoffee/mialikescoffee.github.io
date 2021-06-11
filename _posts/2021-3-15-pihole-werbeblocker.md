@@ -2,6 +2,7 @@
 layout: post
 title: Pi-hole, der Werbeblocker für das gesamte Heimnetz
 categories: [opensource, selfhosting, linux, privacy]
+description: Pihole ist ein Werbeblocker für das gesamte Netzwerk. 
 ---
 
 In meinem ersten Blogpost stelle ich euch ein Tool vor, welches ich jedem empfehlen kann, da es effektiv Werbebanner und Tracking/Telemetrie blockiert und damit das Surfen im Web wesentlich erträglicher macht und eure Privatssphäre im Internet stärkt. Es geht um **Pi-hole**. 
