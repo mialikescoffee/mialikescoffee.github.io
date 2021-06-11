@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp-Alternativen
+title: WhatsApp-Alternativen, die deine Daten schützen
 categories: [privacy]
 ---
 
