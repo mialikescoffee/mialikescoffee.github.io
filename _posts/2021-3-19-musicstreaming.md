@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mein eigener Musikstreamingdienst
+title: Navidrome - Mein selbstgehosteter Musikstreamingdienst
 categories: [opensource, selfhosting, linux]
 ---
 
