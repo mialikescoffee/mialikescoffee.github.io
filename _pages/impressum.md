@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 permalink: /impressum/
+metatags: noindex, follow
 ---
 
 Julian Schmidt  
