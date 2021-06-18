@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oblivious DNS over HTTPs - ein neues Protokoll für mehr Privatsphäre
-categories: [security,privacy]
+categories: [security,privacy,apple]
 description: Mit dem Protokoll Oblivious DNS over HTTPs soll die Privatsphäre bei der Nutzung des Domain Name Systems (DNS) verbessert werden.
 ---
 
